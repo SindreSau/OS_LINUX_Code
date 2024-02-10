@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/sindre/Library/CloudStorage/Dropbox/00Prog/00OsloMET/semester 4/DATA2500-OS-Linux/OS_LINUX_Code/C",
+      "program": "/Users/sindre/Library/CloudStorage/Dropbox/00Prog/00OsloMET/semester 4/DATA2500-OS-Linux/OS_LINUX_Code/C/build/Debug/outDebug"
+    }
+  ]
+}
